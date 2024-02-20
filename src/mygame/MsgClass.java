@@ -71,9 +71,9 @@ public class MsgClass
      	 	{
      	 	langTitleGR=" Molao Wa Tshameko ";
      	 	langTitleIM=" Tshameko e dibobo ";
-     	 	langTitleGE=" Bokhutlô jwa Motshameko ";
+     	 	langTitleGE=" Bokhutlo jwa Motshameko ";//" Bokhutlï¿½ jwa Motshameko ";
                 langTitleCM="Tshameka Dikgomo mo sakeng";
-                langTitleRM="Kgomo e ka Kgarakgatsêga";
+                langTitleRM="Kgomo e ka Kgarakgatsega";//"Kgomo e ka Kgarakgatsï¿½ga";
      	 	langPlayer=" Modisa ";
      	 	langCow=" Kgomo ";
      	 	
@@ -86,12 +86,12 @@ public class MsgClass
 		   	 langInvalidMoveMsg=",Ga o a Tshameka sentle leka gape.";
 		   	 langStartGameMsg=" Tlhopa lefelo mo Mheleng la go baya Kgomo ka go \ntobetsa mo go lone";
      	 	 langWinnerMsg=" Motshameko o gapilwe ke ";
-     	 	 langDrawGameMsg=" Pôô pedi sakeng,Ga gona mofenye.";
+     	 	 langDrawGameMsg=" Puo pedi sakeng,Ga gona mofenye.";//" Pï¿½ï¿½ pedi sakeng,Ga gona mofenye.";
      	 	 langMovesDone=" O latlhegelwa ke Motshameko ka o gatologile ga ntse.";
      	 	 langMovesBlocked=" O latlhegelwa ke Motshameko,ka dikgomo tsa gago di thibilwe.";
      	 	 langChangeGameMode="Tlhopa kgomo e o batlang go e sutisa ka go tsirima mo go yone.\n"+
                                      "Gotswa foo, o bo o tsirima mo konopong e mabapi e go senaga kgomo.";
-                 langRoamingMsg=",jaanong Kgomo e ka Kgarakgatsêga\n mo sakeng fa o Tshameka.";
+                 langRoamingMsg=",jaanong Kgomo e ka Kgarakgatsega\n mo sakeng fa o Tshameka.";//",jaanong Kgomo e ka Kgarakgatsï¿½ga\n mo sakeng fa o Tshameka.";
                 }
 		   	
 		}

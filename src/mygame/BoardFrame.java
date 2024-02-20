@@ -717,7 +717,7 @@ public class BoardFrame extends JFrame implements ActionListener
                     lang_QUIT="Tswala Losaka";
      	 	     lang_EXIT="Tswala Motshameko";
      	 	  
-     	 	  lang_OPTION="Ithôphêlê";
+     	 	  lang_OPTION=  "Ithopele"; //"Ithï¿½phï¿½lï¿½";
      	 	  lang_OPLAYER="Modisa";
      	 	  lang_OnePlayer="Motshameki";
      	 	  lang_TwoPlayer="Batshameki";
@@ -731,13 +731,13 @@ public class BoardFrame extends JFrame implements ActionListener
      	 	     lang_COWS="Dikgomo";
                      lang_menuItemCows3="Tharo";
                      lang_menuItemCows6="Thataro";
-                     lang_menuItemCows9="Bofêra bongwe";
-                     lang_menuItemCows12="Lesomê le bobedi";
+                     lang_menuItemCows9="Bofera bongwe"; //"Bofï¿½ra bongwe";
+                     lang_menuItemCows12="Lesome le bobedi";//"Lesomï¿½ le bobedi";
 
      	 	     lang_KRAAL="Lesaka";
-     	 	     lang_LANG="Puô";
+     	 	     lang_LANG="Puo";//"Puï¿½";
      	 	     
-     	 	  lang_HELP="Thusô";
+     	 	  lang_HELP="Thusï¿½"; //"Thusï¿½";
      	 	     lang_MANUAL="Bokana Ya Tshameko";
      	 	     lang_ABOUT="Ka Mhele";
      	 	     
