@@ -19,7 +19,7 @@ public class voice implements Runnable {
 this.open();
     }
     public void addWords(String word){
-    this.words =word;
+    this.words = word;
     }
     public String getWords(){
     return this.words;
